@@ -1,7 +1,5 @@
 # DataGame
-
-Un jeu basé sur le fait qu'à force de travailler sur des données,
-on finit par les aimer.
+Un jeu basé sur le fait qu'à force de travailler sur des données, on finit par les aimer.
 
 Dans ce jeu vous "élevez" un jeu de donnée et le "maintenez en vie" afin
 qu'il n'atteigne pas 0.
